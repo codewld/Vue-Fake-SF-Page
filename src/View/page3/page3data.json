@@ -1,0 +1,39 @@
+{
+  "h3": "增值服务",
+  "imgUrl": "../../../static/img/page3background.jpg",
+  "data1": [
+    {
+      "url": "####",
+      "imgUrl": "../../../static/img/01.png",
+      "words": "保价运输"
+    },
+    {
+      "url": "####",
+      "imgUrl": "../../../static/img/02.png",
+      "words": "包装方案"
+    },
+    {
+      "url": "####",
+      "imgUrl": "../../../static/img/03.png",
+      "words": "代收货款"
+    }
+  ],
+  "data2": [
+    {
+      "url": "####",
+      "imgUrl": "../../../static/img/04.png",
+      "words": "签单返还"
+    },
+    {
+      "url": "####",
+      "imgUrl": "../../../static/img/05.png",
+      "words": "特殊入仓"
+    },
+    {
+      "url": "####",
+      "imgUrl": "../../../static/img/06.png",
+      "words": "货物保管"
+    }
+  ]
+}
+

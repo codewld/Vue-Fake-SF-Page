@@ -1,0 +1,39 @@
+.nav_container {
+  height: 90px;
+
+  background-color: rgb(34, 34, 34);
+
+  z-index: 10;
+
+  position: sticky;
+  top: 0;
+
+  display: flex;
+
+  padding-left: 10%;
+  padding-right: 10%;
+}
+img {
+  width: 120px;
+  height: 75px;
+  margin-top: 10px;
+  margin-right: 10px;
+  flex-shrink: 0;
+}
+ul {
+  text-align: center;
+  width: 90px;
+  height: 90px;
+  line-height: 90px;
+  font-size: 16px;
+  color: white;
+  flex-shrink: 0;
+  flex-grow: 1;
+}
+ul li {
+  background-color: rgb(34, 34, 34);
+  display: none;
+  transition: .5s;
+}
+
+

@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'iconfont';  /* Project id 2547083 */
+  src: url('//at.alicdn.com/t/font_2547083_4qomg7byei.woff2?t=1620971761443') format('woff2'),
+  url('//at.alicdn.com/t/font_2547083_4qomg7byei.woff?t=1620971761443') format('woff'),
+  url('//at.alicdn.com/t/font_2547083_4qomg7byei.ttf?t=1620971761443') format('truetype');
+}
+
+* {
+  font-family: 'iconfont';
+}
