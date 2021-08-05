@@ -1,4 +1,4 @@
-# Vue-Fake-SF-Page
+# Vue-FakeSF-Page
 基于 Vue 的 SF 快运仿站
 
 ## Build Setup
